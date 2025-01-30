@@ -3,9 +3,9 @@
 # In the mean time, you can still use these image definitions with inbuilt tasks on a pool directly without building an image.
 
 $schema: "1.0"
-name: "frontend-eng"
+name: "itsarag"
 image: microsoftwindowsdesktop_windows-ent-cpc_win11-24H2-ent-cpc
-description: "This definition is for the eShop frontend engineering environment"
+description: "This definition is for the hackathon"
 
 tasks:
   - name: ~/winget
